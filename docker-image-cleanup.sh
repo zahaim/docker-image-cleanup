@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# janek.idzie@ista.com
+# janek.idzie@gmail.com
 # 02/2018
 
 # a simple script to cleanup docker images
